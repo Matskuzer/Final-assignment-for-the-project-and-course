@@ -5,7 +5,8 @@
 ## Cisco - Introduction to Cybersecurity
 
 ### Course Completion Screenshot  
-*Insert your screenshot here (drag and drop into the README or use a relative path if stored in the repo)*
+![image](https://github.com/user-attachments/assets/86e4c4b5-de7c-4f46-9ba9-1da479314189)
+
 
 ### Reflection  
 During this topic, I learned the foundational concepts of cybersecurity, including threat types, best practices, and the role of security in both personal and professional environments. It provided a great overview of how cybersecurity affects the digital world and why it's important for everyone.
