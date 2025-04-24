@@ -96,9 +96,9 @@ https://github.com/Matskuzer/LogBook/blob/main/LOGBOOK.md
 
 ### Time Spent
 
-- **Total Hours:** 41.5  
+- **Total Hours:** 43.5  
 - **Cisco:** 2  
-- **PortSwigger:** 3(kohta lisää)
+- **PortSwigger:** 5
 - **Booking System:**  35
 - **Documentation & Logbook:** 1.5
 
