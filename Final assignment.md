@@ -16,8 +16,8 @@ During this topic, I learned the foundational concepts of cybersecurity, includi
 ## PortSwigger Labs
 
 ### Lab Completion Screenshot
-Teen 18 tehtävää tästä nyt päivitän 24.4.2025 päivän aikana
-![image]
+![image]![image](https://github.com/user-attachments/assets/c1854183-e4c7-44b0-821d-490b92e781ee)
+
 
 
 ### Completed Labs
@@ -45,6 +45,14 @@ Topic Cross-site scripting
 - Reflected XSS into attribute with angle brackets HTML-encoded → Solved
 - Stored XSS into anchor href attribute with double quotes HTML-encoded → Solved
 - Reflected XSS into a JavaScript string with angle brackets HTML encoded → Solved
+
+ Topic Cross-site request forgery (CSRF)
+ - CSRF vulnerability with no defenses → Solved
+  Topic Clickjacking
+ - Basic clickjacking with CSRF token protection → Solved
+ - Clickjacking with form input data prefilled from a URL parameter → Solved
+ - Clickjacking with a frame buster script → Solved
+
 
 ### Reflection  
 PortSwigger's labs gave me hands-on experience with web application vulnerabilities. I especially gained insight into how attackers exploit common weaknesses and how to mitigate them. The interactive labs were crucial in reinforcing the theoretical concepts from the course.
