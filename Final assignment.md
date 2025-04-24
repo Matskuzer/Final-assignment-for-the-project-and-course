@@ -47,19 +47,17 @@ PortSwigger's labs gave me hands-on experience with web application vulnerabilit
 Explored the booking system, identified features and initial bugs.  
 - What worked: UI was responsive  
 - What didn’t work: Limited error handling  
-- Time-consuming: Understanding legacy codebase  
+- Time-consuming: Understanding the applications
 
 **Phase 2:**  
 Improved error handling, revised the backlog, and added more test cases.  
-- What worked: Testing caught several logic flaws  
-- What didn’t work: CI integration was slow  
-- Time-consuming: Writing meaningful tests  
+- What worked: I got passwords cracked  
+- What didn’t work: Everything worked fine  
+- Time-consuming: Password cracking  
 
 **Phase 3:**  
 Authorization and penetration testing using OWASP ZAP and wfuzz.  
-- What worked: Found unauthorized access flaws  
-- What didn’t work: Some tools gave false positives  
-- Time-consuming: Manual testing and verification  
+-   I haven't done this yet
 
 ### Reflection  
 This project taught me how to manage and improve an existing application securely. I learned a lot about secure coding practices and penetration testing workflows.
@@ -68,8 +66,8 @@ This project taught me how to manage and improve an existing application securel
 
 ## Logbook
 
-### 🔗 GitHub Repository  
-[GitHub Repo Link](https://github.com/yourusername/your-repo)
+### GitHub Repository  
+[GitHub Repo Link]([https://github.com/yourusername/your-repo](https://github.com/Matskuzer/LogBook/blob/main/LOGBOOK.md))
 
 ### Time Spent
 
