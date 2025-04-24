@@ -5,7 +5,7 @@
 ## Cisco - Introduction to Cybersecurity
 
 ### Course Completion Screenshot  
-https://github.com/user-attachments/assets/86e4c4b5-de7c-4f46-9ba9-1da479314189
+![image]![image](https://github.com/user-attachments/assets/86e4c4b5-de7c-4f46-9ba9-1da479314189)
 
 
 ### Reflection  
@@ -16,7 +16,7 @@ During this topic, I learned the foundational concepts of cybersecurity, includi
 ## PortSwigger Labs
 
 ### Lab Completion Screenshot
-https://github.com/user-attachments/assets/c1854183-e4c7-44b0-821d-490b92e781ee
+![image]![image](https://github.com/user-attachments/assets/c1854183-e4c7-44b0-821d-490b92e781ee)
 
 
 
