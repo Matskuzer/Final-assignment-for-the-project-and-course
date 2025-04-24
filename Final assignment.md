@@ -5,7 +5,7 @@
 ## Cisco - Introduction to Cybersecurity
 
 ### Course Completion Screenshot  
-![image](https://github.com/user-attachments/assets/86e4c4b5-de7c-4f46-9ba9-1da479314189)
+https://github.com/user-attachments/assets/86e4c4b5-de7c-4f46-9ba9-1da479314189
 
 
 ### Reflection  
