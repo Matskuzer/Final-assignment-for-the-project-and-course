@@ -67,33 +67,16 @@ This project taught me how to manage and improve an existing application securel
 ## Logbook
 
 ### GitHub Repository  
-[GitHub Repo Link]((https://github.com/Matskuzer/LogBook/blob/main/LOGBOOK.md))
+https://github.com/Matskuzer/LogBook/blob/main/LOGBOOK.md
 
 ### Time Spent
 
-- **Total Hours:** 64  
-- **Cisco:** 10  
-- **PortSwigger:** 14  
-- **Booking System:** 30  
-- **Documentation & Logbook:** 10  
+- **Total Hours:** 41.5  
+- **Cisco:** 2  
+- **PortSwigger:** 3
+- **Booking System:**  35
+- **Documentation & Logbook:** 1.5
 
 ### Reflection  
 This course deepened my understanding of cybersecurity principles and real-world vulnerabilities.
 
----
-
-## Feedback (Optional)
-
-I appreciated the balance between theory and hands-on activities. More real-world case studies or group challenges would make the course even better!
-
----
-
-## Submission
-
-All parts of the assignment are completed and documented. Waiting for the final exam to open.
-
----
-
-## Final Assessment
-
-Once the final exam is completed, the final assessment will be added and submitted via Peppi.
