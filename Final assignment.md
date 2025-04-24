@@ -15,8 +15,9 @@ During this topic, I learned the foundational concepts of cybersecurity, includi
 
 ## PortSwigger Labs
 
-### Lab Completion Screenshot  
-![image](https://github.com/user-attachments/assets/113ebacb-ec68-4877-8ee1-187896b2f32e)
+### Lab Completion Screenshot
+Teen 18 tehtävää tästä nyt päivitän 24.4.2025 päivän aikana
+![image]
 
 
 ### Completed Labs
@@ -78,7 +79,7 @@ https://github.com/Matskuzer/LogBook/blob/main/LOGBOOK.md
 
 - **Total Hours:** 41.5  
 - **Cisco:** 2  
-- **PortSwigger:** 3
+- **PortSwigger:** 3(kohta lisää)
 - **Booking System:**  35
 - **Documentation & Logbook:** 1.5
 
