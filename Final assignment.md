@@ -57,7 +57,12 @@ Improved error handling, revised the backlog, and added more test cases.
 
 **Phase 3:**  
 Authorization and penetration testing using OWASP ZAP and wfuzz.  
--   I haven't done this yet
+-   I haven't done this yet, but I'm still going to do it. I just need Phase 3 returnbox opened. 
+
+-   Phase 4:
+Authorization and penetration testing using OWASP ZAP and wfuzz.
+
+I haven't done this yet, but I'm still going to do it
 
 ### Reflection  
 This project taught me how to manage and improve an existing application securely. I learned a lot about secure coding practices and penetration testing workflows.
