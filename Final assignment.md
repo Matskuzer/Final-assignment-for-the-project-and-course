@@ -1,16 +1,16 @@
 Cybersecurity Course Submission
- Cisco - Introduction to Cybersecurity
- Course Completion Screenshot
+📘 Cisco - Introduction to Cybersecurity
+✅ Course Completion Screenshot
 Insert your screenshot here (drag and drop into the README or use a relative path if stored in the repo)
 
-Reflection
+✍️ Reflection
 During this topic, I learned the foundational concepts of cybersecurity, including threat types, best practices, and the role of security in both personal and professional environments. It provided a great overview of how cybersecurity affects the digital world and why it's important for everyone.
 
- PortSwigger Labs
- Lab Completion Screenshot
+🧪 PortSwigger Labs
+✅ Lab Completion Screenshot
 Insert your screenshot here
 
-Completed Labs
+🧾 Completed Labs
 File upload vulnerabilities → Remote code execution via web shell upload
 
 SQL Injection → Retrieving hidden data
@@ -22,11 +22,11 @@ Authentication bypass → Brute-forcing a login
 Access control → Insecure direct object references
 (Add more as needed)
 
-Reflection
+✍️ Reflection
 PortSwigger's labs gave me hands-on experience with web application vulnerabilities. I especially gained insight into how attackers exploit common weaknesses and how to mitigate them. The interactive labs were crucial in reinforcing the theoretical concepts from the course.
 
- The Booking System Project
- Project Phases
+🧩 The Booking System Project
+🧱 Project Phases
 Phase 1:
 Explored the booking system, identified features and initial bugs.
 What worked: UI was responsive.
@@ -45,14 +45,14 @@ What worked: Found unauthorized access flaws.
 What didn’t work: Some tools gave false positives.
 Time-consuming: Manual testing and verification.
 
- Reflection
+✍️ Reflection
 This project taught me how to manage and improve an existing application securely. I learned a lot about secure coding practices and penetration testing workflows.
 
- Logbook
- GitHub Repository
+📚 Logbook
+🔗 GitHub Repository
 GitHub Repo Link
 
-Time Spent
+⏱️ Time Spent
 Total Hours: 64
 
 Cisco: 10
@@ -63,11 +63,11 @@ Booking System: 30
 
 Documentation & Logbook: 10
 
- Reflection
+✍️ Reflection
 This course deepened my understanding of cybersecurity principles and real-world vulnerabilities.
 
- Feedback (Optional)
+💬 Feedback (Optional)
 I appreciated the balance between theory and hands-on activities. More real-world case studies or group challenges would make the course even better!
 
- Submission
+✅ Submission
 All parts of the assignment are completed and documented. Waiting for the final exam to open.
