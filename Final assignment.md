@@ -67,7 +67,7 @@ This project taught me how to manage and improve an existing application securel
 ## Logbook
 
 ### GitHub Repository  
-[GitHub Repo Link]([https://github.com/yourusername/your-repo](https://github.com/Matskuzer/LogBook/blob/main/LOGBOOK.md))
+[GitHub Repo Link]((https://github.com/Matskuzer/LogBook/blob/main/LOGBOOK.md))
 
 ### Time Spent
 
