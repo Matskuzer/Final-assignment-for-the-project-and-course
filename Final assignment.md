@@ -42,6 +42,9 @@ Topic Cross-site scripting
 - DOM XSS in innerHTML sink using source location.search → Solved
 - DOM XSS in jQuery anchor href attribute sink using location.search source → Solved
 - DOM XSS in jQuery selector sink using a hashchange event → Solved
+- Reflected XSS into attribute with angle brackets HTML-encoded → Solved
+- Stored XSS into anchor href attribute with double quotes HTML-encoded → Solved
+- Reflected XSS into a JavaScript string with angle brackets HTML encoded → Solved
 
 ### Reflection  
 PortSwigger's labs gave me hands-on experience with web application vulnerabilities. I especially gained insight into how attackers exploit common weaknesses and how to mitigate them. The interactive labs were crucial in reinforcing the theoretical concepts from the course.
