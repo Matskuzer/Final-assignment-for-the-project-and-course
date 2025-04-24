@@ -39,6 +39,8 @@ Topic Cross-site scripting
 - Reflected XSS into HTML context with nothing encoded → Solved
 - Stored XSS into HTML context with nothing encoded → Solved
 - Lab: DOM XSS in document.write sink using source location.search → Solved
+- DOM XSS in innerHTML sink using source location.search → Solved
+- DOM XSS in jQuery anchor href attribute sink using location.search source
 
 ### Reflection  
 PortSwigger's labs gave me hands-on experience with web application vulnerabilities. I especially gained insight into how attackers exploit common weaknesses and how to mitigate them. The interactive labs were crucial in reinforcing the theoretical concepts from the course.
