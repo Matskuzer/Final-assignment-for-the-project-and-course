@@ -16,17 +16,23 @@ During this topic, I learned the foundational concepts of cybersecurity, includi
 ## PortSwigger Labs
 
 ### Lab Completion Screenshot  
-*Insert your screenshot here*
+![image](https://github.com/user-attachments/assets/113ebacb-ec68-4877-8ee1-187896b2f32e)
+
 
 ### Completed Labs
 
-- File upload vulnerabilities → Remote code execution via web shell upload  
-- SQL Injection → Retrieving hidden data  
-- Cross-site scripting → Stored XSS into HTML context  
-- Authentication bypass → Brute-forcing a login  
-- Access control → Insecure direct object references  
+Topic SQL injection
+- SQL injection vulnerability in WHERE clause allowing retrieval of hidden data → Solved
+- SQL injection vulnerability allowing login bypass → Solved
 
-*(Add more as needed)*
+Topic Authentication
+- Username enumeration via different responses → Solved
+- 2FA simple bypass → Solved
+- Password reset broken logic → Solved
+
+Topic Access control
+- Unprotected admin functionality → Solved
+- User role can be modified in user profile → Solved
 
 ### Reflection  
 PortSwigger's labs gave me hands-on experience with web application vulnerabilities. I especially gained insight into how attackers exploit common weaknesses and how to mitigate them. The interactive labs were crucial in reinforcing the theoretical concepts from the course.
