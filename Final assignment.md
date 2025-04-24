@@ -36,7 +36,7 @@ Topic Access control
 - User role can be modified in user profile → Solved
 
 Topic Cross-site scripting
-Reflected XSS into HTML context with nothing encoded → Solved
+- Reflected XSS into HTML context with nothing encoded → Solved
 
 ### Reflection  
 PortSwigger's labs gave me hands-on experience with web application vulnerabilities. I especially gained insight into how attackers exploit common weaknesses and how to mitigate them. The interactive labs were crucial in reinforcing the theoretical concepts from the course.
